@@ -1,0 +1,7 @@
+torch==2.1.1
+ultralytics
+onnx 
+onnx-tf
+tensorflow
+tensorflow-probability
+tensorflow-probability[tf]
